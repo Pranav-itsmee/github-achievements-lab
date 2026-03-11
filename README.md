@@ -1,1 +1,2 @@
 Testing co-authored commit.
+.
